@@ -1,2 +1,5 @@
 # Ignore Java bytecode files
 *.class
+
+# Ignore .DS_Store
+.DS_Store
